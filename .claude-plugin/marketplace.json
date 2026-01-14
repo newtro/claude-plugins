@@ -1,0 +1,15 @@
+{
+  "name": "mathews-claude-plugins",
+  "owner": {
+    "name": "Mathew's Claude Plugins",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "interactive-dev",
+      "source": "./interactive-dev",
+      "description": "Interactive development workflow with planning, coding, and browser-based verification loops",
+      "version": "1.0.0"
+    }
+  ]
+}
