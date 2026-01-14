@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Interactive development workflow with planning, coding, and browser-based verification loops",
   "author": {
-    "name": ""
+    "name": "Mathew"
   },
   "keywords": ["workflow", "tdd", "verification", "playwright", "planning"]
 }
