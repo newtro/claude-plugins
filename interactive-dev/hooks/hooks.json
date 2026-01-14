@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'File changed, lint/typecheck will run in coding agent'"
+          }
+        ]
+      }
+    ]
+  }
+}
